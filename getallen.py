@@ -1,0 +1,1 @@
+print(sorted([int(i) for i in input(f'Vul 5 nummers in:').split()], reverse=True))
